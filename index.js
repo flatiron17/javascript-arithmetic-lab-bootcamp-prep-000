@@ -1,8 +1,8 @@
 function subtract(a+b){
   return a + b
 }
-function subtract(b,a) {
-  return b - a
+function subtrsact(a,b) {
+  return a - b
 }
 function multiply(a,b) {s
   return a * b
